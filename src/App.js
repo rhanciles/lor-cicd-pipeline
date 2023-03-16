@@ -6,6 +6,7 @@ function App() {
 
   return (
     <div data-test="component-app">
+      <h1>Lord of the Rings</h1>
       <CharacterGallery />
     </div>
   );
